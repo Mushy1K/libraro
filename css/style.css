@@ -1,0 +1,15 @@
+body {
+	padding:0;
+	background: #333333;
+	color:white;
+}
+
+#Content {
+
+padding: 25px;
+}
+
+a {
+	text-decoration: none;
+	list-style-type:none;
+}
